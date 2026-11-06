@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/待回填.svg)](https://doi.org/待回填)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23446218.svg)](https://doi.org/10.5281/zenodo.23446218)
 
 # 偏元数学 · Day29 · 界的升域下的偏元运算（S-007 对应）
 
